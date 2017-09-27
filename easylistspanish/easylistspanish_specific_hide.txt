@@ -1,11 +1,20 @@
 diariopopular.com.ar###OBJETO861 > .ad-obj
-foro.putalocura.com,misandria.info###ad_global_below_navbar
+foro.putalocura.com,foroparalelo.com,misandria.info###ad_global_below_navbar
 ftail.tv,shippuden.tv###ads
 comunio.es###advertising-right
 comunio.es###advertising-top
 animeid.tv###ap
 fmvida.com.ar,inmonauta.es###banner
+perfil.com###banner990
+pantallazo.com.uy###bannerEspeciales
 eldefinido.cl###bannerGCP
+entornointeligente.com###bannerHorizontal
+perfil.com###bannerMobile01
+perfil.com###bannerMobile02
+perfil.com###bannerMobile03
+perfil.com###bannerScreen01
+perfil.com###bannerScreen02
+perfil.com###bannerScreen03
 atresplayer.com###bannerTop
 aica.org###banner_A
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###banner_header
@@ -14,6 +23,9 @@ coches.net###banner_top
 estadio.ec###banners
 eleconomista.es###banners-superiores
 paxinasgalegas.es###banners_laterales
+libero.pe###block-externos-block-json-cuponidad
+informe21.com###block-views-diosuniversal-block-1
+ushuaia24.com.ar###bloque-11
 lagacetadesalamanca.es###bn_vandyck
 ftail.tv,shippuden.tv###bottomlink
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com###box-ads-tr
@@ -24,20 +36,33 @@ abchoy.com.ar###cacho-popup
 laprovincia.es###caja_1_derecha_17_0
 20minutos.es###cajasbuscadoras
 ftail.tv,shippuden.tv###categories
-cinestrenostv.tv###closeX1
+pantallazo.com.uy###clima-banner
+verdirectotv.com,verliga.net###closeX
+cinestrenostv.tv,vercanalestv.com,verdirectotv.com###closeX1
 cinestrenostv.tv###closeX2
+verdirectotv.com###closeX23
+montevideo.com.uy###conectab
 publico.es###decine21_widget_estrenos
+forocoches.com###div-300x250
+forocoches.com###div-336x280_foro_footer
+forocoches.com###div-336x280_respuesta_medio
+forocoches.com###div-970x90
+forocoches.com###div-970x90_respuesta
+forocoches.com###div-970x90_respuesta_final
+perfil.com###div_blockTop_1
 lne.es###divderecha_1021
 laprovincia.es###divderecha_1050
 diaridegirona.cat###divderecha_1053
 estrenosdtl.com,moviesdvdr.com###f_find_bar
 tvenganchado.com###g
+interviu.es###headerBanner
 realbetisbalompie.es###horizotal-banners
 tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com###interstitial_container
 supremacy1914.es###kbg
 pordede.com###lean_overlay
 todocvcd.com###mbanner
 elmundo.es###modulo_buscador_sv
+cadena3.com###mundo-descuento
 chrissysinvite.co###myModal
 dle.rae.es###opciones > #patrocinio
 eldefinido.cl###pub
@@ -47,12 +72,19 @@ realbetisbalompie.es###right-banners
 noticias3d.com###skin
 bandaancha.eu###spBx
 noticiaslasflores.com.ar###swiffycontainer
+kiosco.net###text-12
 emprendices.co###text-15
 ddmix.net###text-4
+diariovictoria.com.ar###text-5
+diariovictoria.com.ar###text-6
+diariovictoria.com.ar###text-7
 livenumetal.es###text-7 > .textwidget
 abc.com.py###top-banners
 ecuavisa.com###topbar
-verdirectotv.org###total
+dinostream.pw,verdirectotv.org###total
+dinostream.pw###total2
+dinostream.pw###total3
+latino-webtv.com###ventana-flotante
 burbuja.info###wfg_ad-LDB1
 burbuja.info###wfg_ad-LDB2
 burbuja.info###wfg_ad-MPU1
@@ -61,44 +93,89 @@ mundodeportivo.com###widget-mdcribeo-loultimo
 realbetisbalompie.es###widget_banners
 elblog.com###z_pub_inf_new
 elblog.com###z_pub_sup_new
+informe21.com###zone-user-wrapper
+diariolagrada.com##.Banner
 guadairainformacion.com##.Banner300x100
 animeflv.net##.Dvr300
 eldefinido.cl##.RP
 buscamultas.com##.TableWidget
-cuatro.com,divinity.es,elconfidencial.com,telecinco.es,terra.es##.ad
+mediavida.com##._p-ft
+mediavida.com##._p-tp
+cuatro.com,divinity.es,elconfidencial.com,elsol.com.ar,telecinco.es##.ad
+milenio.com##.ad-box1
+milenio.com##.ad-box2
+autoblog.com.ar##.ad-header-right
+ratingcero.com##.ad01-obj
+elpatagonico.com##.ad02-obj
+televisa.com##.ad_space_large
 elconfidencial.com##.adcrt300x600
 elconfidencial.com##.adcrt980x250
-eslang.es,publico.es##.ads
+eltrecetv.com.ar,eslang.es,publico.es,rpp.pe##.ads
+yorokobu.es##.ads-block
 zonatorrent.es##.adsb30
 forobeta.com##.adshare_belownav
 forobeta.com##.adshare_firstpost
 forobeta.com##.adshare_lastpost
-elespanol.com##.adv
-terra.es,tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
+elespanol.com,elsol.com.ar##.adv
+tribunaavila.com,tribunaburgos.com,tribunaleon.com,tribunapalencia.com,tribunasalamanca.com,tribunasegovia.com,tribunasoria.com,tribunavalladolid.com,tribunazamora.com##.advertising
 20minutos.es##.adx
+htcmania.com##.afterlogo
 androidpit.es##.appSlider
 libertaddigital.com##.apuestas
+perfil.com##.ark-ad-block
 windowscracker1.blogspot.com.es##.at4-whatsnext-outer-container
+larepublica.pe##.atm-banner-middle
+larepublica.pe##.atm-banner-strip
+larepublica.pe##.atm-banner-top
+cadena3.com##.baner300x250
+cadena3.com##.baner630x250
+cadena3.com##.baner960x50
+cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
-animakai.tv,descargasnsn.com,mdzol.com,rosario3.com##.banner
+agenciafe.com,animakai.tv,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,infocanuelas.com,lacapital.com.ar,lanacion.com.ar,mdzol.com,minutouno.com,primiciasya.com,rosario3.com,voydeviaje.com.ar##.banner
 elonce.com##.banner-a
+adnradio.cl##.banner-ancho
+adnradio.cl##.banner-ancho-movil
 elonce.com##.banner-b
+voydeviaje.com.ar##.banner-billboard-wrapper
 elonce.com##.banner-c
+noticiasurbanas.com.ar##.banner-center
+apertura.com,elnueve.com,infotechnology.com##.banner-container
 elonce.com##.banner-d
 elonce.com##.banner-e
 elonce.com##.banner-f
 elonce.com##.banner-g
 elonce.com##.banner-h
+minutouno.com##.banner-libre
+minutouno.com##.banner-listado-simple
+lacapital.com.ar,primiciasya.com##.banner-nativo
+noticiasurbanas.com.ar##.banner-noticia
+cronista.com##.banner-revista
+breves24.com.ar##.banner1
+breves24.com.ar##.banner2
+breves24.com.ar##.banner3
+iprofesional.com##.banner300x
+breves24.com.ar##.banner4
+breves24.com.ar##.banner5
+interviu.es##.bannerBlock
 elliberal.com.ar##.bannernota
 elliberal.com.ar##.bannernota2
 elliberal.com.ar##.bannernota3
+eldiarionuevodia.com.ar##.bannerpopup
+iprofesional.com##.bannerpremiumnh
 180.com.uy##.banners-side-container
+tiemposur.com.ar##.banners_flash
 tumomo.com##.bderecho
 ebay.es##.beta-placement
 tumomo.com##.bizquierdo
+larepublica.pe##.bl-cuponidad
+elpopular.pe##.block-block-json-cuponidad-sidebar
+diariodecuyo.com.ar##.bnr
 mundodeportivo.com##.bolarosa
 pelisadicto.com##.box
+debate.com.mx##.box-banner
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.box-publi-left
+lavanguardia.com##.box900
 emol.com##.bt_publicar_ecn
 eleconomista.es##.caja-publi-port
 laprovincia.es##.caja_cuponisimo_slider300
@@ -109,27 +186,41 @@ lavoz.com.ar##.clublavoz
 deportemixtv.info##.column-right-outer
 renfe.com##.comprabilletes
 tandildiario.com##.containerBannerDesplegable
+cronista.com##.content-banner
 slimdownload.co##.cssanimations
 laprovincia.es##.dcham2
+lavanguardia.com##.div-patrocinado5
 diariodesevilla.es##.ePubli1
 elcomercio.pe##.ec-club
+cronista.com##.entry-box-banner
 estadiodeportivo.whitelabel.kelisto.es##.finance
+cronica.com.ar##.fixed-banner
 marca.com##.flex-b-promociones
 elmundo.es##.flex__publi
+yorokobu.es##.fw-container
 emprendices.co##.homepage-widget > #text-16
 diaridegirona.cat##.iberpi_cajaext
 laprovincia.es##.listaofertas
+lavanguardia.com##.lv-publi-box
 blancas.cl,paginasblancas.com.ar,paginasblancas.com.pe##.m-pod-promo-image
 tandildiario.com##.mainContainerBanner
+publico.es##.megabanner-container
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##.mod-pubb
 atresplayer.com##.mod_roba
+larepublica.pe##.mol-bl_Cuponidad
 lavozdegalicia.es##.mujerhoy
 gaceta.es##.node-anuncio-megabanner
+elnueve.com##.note-home-container--1-space
 pdindustriales.com.ar##.ofertas2
 elmundo.es##.other-services
 meteoconsult.es##.partenaire_simple
 meteoconsult.es##.partenaire_simple_home
+chacohoy.com,corrienteshoy.com##.pasli
 elmundo.es,lavozdegalicia.es##.patrocinio
+elheraldo.co##.pauta
+infobae.com##.pb-f-utilities-ad
+descargar.mobi##.placeholder__item--banner
+eldia.com##.ppp
 deportes.televisa.com##.prime-banner
 lavoz.com.ar##.producto-tienda
 rumbo.es##.promo262x90
@@ -140,26 +231,35 @@ elblog.com##.pub_lat1_father
 elblog.com##.pub_lat2_father
 elblog.com##.pub_lat3_father
 elonce.com##.publi-top
-motociclismo.es,publico.es##.publicidad
+eltribuno.info,motociclismo.es,publico.es##.publicidad
 intereconomia.tv##.pum-overlay
-diariosur.es,diariovasco.com,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,publico.es##.roba
+salpimenta.com.ar##.quadro-ads-widget-1col
+televisa.com##.rapid_banner_home
+televisa.com##.rapid_banner_sidebar
+diariosur.es,diariovasco.com,digitalcamera.es,elcomercio.es,elcorreo.com,eldiariomontanes.es,elnortedecastilla.es,hoy.es,ideal.es,larioja.com,lasprovincias.es,laverdad.es,leonoticias.com,primeralinea.es,publico.es##.roba
 muyinteresante.es##.roba1
 muyinteresante.es##.roba1_movil
 muyinteresante.es##.roba2
 muyinteresante.es##.roba2_movil
 megawarez.org##.sidebar-ads
 diariocorreo.pe##.sidebar-zonahogar
-elliberal.com.ar##.sponsor
+cronista.com,elliberal.com.ar,publico.es,rpp.pe##.sponsor
 ruedasgordas.es##.sponsors
+losandes.com.ar##.sugerencias
 larazon.es##.textoPatrocinio
 mitele.es##.titleList.DestacadoBox.clearfix.ModuleSimple:last-child
+elpopular.mx##.todopuebla
+elpopular.mx##.tp-centro
 larazon.es##.vinculoPatrocinio
 st1.idealista.com##.widget_idealista
+nuevodiarioweb.com.ar##.zona_banners
 st1.idealista.com##A[href="http://www.idealista.com/news/vacacional/mercado-vacacional/2015/08/12/738750-competencia-arremete-contra-la-ley-que-limita-los-pisos-turisticos-en-el?xts=352991&xtor=AD-186-[node/738750]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[titulo_1_1]&source=314"]
 mitele.es##A[href="http://www.premiercasino.es/redirect?provenanceCode=CONECTA5CASINO"]
 gettyimages.es##[href="http://espanol.istockphoto.com/?esource=gi_es_home_3pack_istock_3"] > .promo-hover
 st1.idealista.com##[href="http://www.idealista.com?xts=352991&xtor=AD-186-[idealista]-[]-[57601_1]-[lavanguardia.es__lavanguardia.es]-[]-[home_1_1]&source=314"]
 va6.thand.info##[src="http://va6.thand.info/0hsfy957uswi2cgypg23"]
+descargasnsn.com##a[href*="://bit.ly/"]
+htcmania.com##a[href*="_banner.php?id="]
 va6.thand.info##a[href*="http://www.physoi.eu/script/redirect.php?url=*"]
 dreamfilmhd.bz##a[href="http://bit.ly/1Lppy4T"]
 20minutos.es##a[href="http://boticariagarcia.com/"]
@@ -171,7 +271,6 @@ forocoches.com##a[href="http://goo.gl/NDrfcW"]
 20minutos.es##a[href="http://lofficiel.es/"]
 telecinco.es##a[href="http://turismourense.com/index"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##a[href="http://ul.to/ref/4037259"]
-diariodesevilla.es##a[href="http://wappissima.es/moda-flamenca"]
 180.com.uy##a[href="http://www.180.com.uy/banner?ID=857&CODE=portal.index"]
 20minutos.es##a[href="http://www.20minutos.es/motor"]
 elsiglodetorreon.com.mx##a[href="http://www.ayojon.mx/"]
@@ -189,19 +288,33 @@ antena3.com##a[href="http://www.objetivobienestar.com/"]
 mitele.es##a[href="http://www.tiendagranhermano.com"]
 antena3.com##a[href="http://www.tualbum.es/"]
 ruedasgordas.es##a[href="https://www.facebook.com/pages/BENIBIKES-Benidorm/177123992350243?fref=ts"]
+teknofilo.com##a[href^="//clk.tradedoubler.com/click?"]
+adlipay.com##a[href^="/away.php?"]
 cuatro.com,telecinco.es##a[href^="http://premiercasino.es/"]
+ddmix.net##a[href^="http://s.click.aliexpress.com/"]
 compucalitv.com##a[href^="http://toroadvertisingmedia.com/"]
 pelisplus.tv##a[href^="http://www.maxonclick.com/"]
 cuatro.com,telecinco.es##a[href^="https://premiercasino.es/"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##a[onclick*="pop.redirect.adsjudo.com"]
+milenio.com##div[style="align:center; margin-bottom:10px; margin-left:10px; border: 1px solid #cacaca; padding:5px; width:300px; height:250px;"]
+nuevamujer.com##div[style="background-color: #E6E6E6; padding: 2px; text-align: center"]
 monografias.com##div[style="background-color:#FFF;margin-bottom:10px;height:250px;"]
+entornointeligente.com##div[style="background-color:#FFFFFF;border-top:2px solid red; margin-bottom: 16px;"]
+entornointeligente.com##div[style="background-color:#ffffff;border-top:2px solid red; margin-bottom: 16px;"]
 dreamfilmhd.bz##div[style="background-color:rgba(0,0,0,0.1);width:750px;height:100px;max-width:100%;margin:0 5px 10px 8px"]
 euribor.com.es##div[style="border: 2px solid #1D8FC1; width: 320px; height:280px; clear:both; margin-bottom: 25px"]
+entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px"]
+entornointeligente.com##div[style="clear:both;width:100%;background-color: #EFEFEF;height:90px;"]
 elitetorrent.net##div[style="color:#ccc;font-size:10px;text-align:right;margin-bottom:20px;"]
 booksmedicos.org##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
+concuchilloytenedor.es##div[style="margin:5px auto 5px;text-align:center;"]
 19640noticias.com##div[style="padding: Publicidad"]
 la-razon.com##div[style="position:absolute; top:12px; width:970px; height:90px; background:#FFF; z-index:100; padding:0px; margin:0px"]
+cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 302px;"]
+cuartopoder.es##div[style="text-align:center; margin-bottom: 15px; background-color:#F4F4F4;width: 728px;"]
+foroparalelo.com##div[style="width:120px; height:600px;"]
 aica.org##div[style="width:600px;height:60px;margin:10px 0px 10px 0px;"]
+foroparalelo.com##div[style="width:970px; height:90px;"]
 divxatope.com,divxatope1.com,newpct.com,newpct1.com,torrentlocura.com,torrentrapid.com,tumejortorrent.com##div[style="z-index:98;width:570px;height:400px;position:absolute;top:0px;left:0px;"]
 hitfm.es##header
 interbenavente.es##img[alt="http://interbenavente.es/pag/serviciosweb"]
